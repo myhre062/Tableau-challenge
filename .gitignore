@@ -1,0 +1,5 @@
+# Ignore DS_Store file
+**/.DS_Store
+
+# Ignore csv files because they are too big for github 
+*.csv
